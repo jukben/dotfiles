@@ -1,0 +1,15 @@
+-server
+-Xms512m
+-Xmx2048m
+-XX:MaxPermSize=512m
+-XX:ReservedCodeCacheSize=256m
+-XX:+UseCodeCacheFlushing
+-XX:+UseCompressedOops
+-XX:+UseConcMarkSweepGC
+-XX:+AggressiveOpts
+-XX:+CMSClassUnloadingEnabled
+-XX:+CMSIncrementalMode
+-XX:+CMSIncrementalPacing
+-XX:CMSIncrementalDutyCycleMin=0
+-XX:-TraceClassUnloading
+-XX:+TieredCompilation
