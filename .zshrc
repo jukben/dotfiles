@@ -96,5 +96,5 @@ EDITOR=vim
 REACT_EDITOR=atom
 export HOMEBREW_GITHUB_API_TOKEN=""
 
-source .functions
-source .aliases
+source ~/.functions
+source ~/.aliases
