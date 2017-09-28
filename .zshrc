@@ -2,9 +2,16 @@ export PATH=$HOME/bin:/usr/local/bin:$PATH
 export ZSH=/Users/jukben/.oh-my-zsh
 
 ZSH_THEME="gitster"
-COMPLETION_WAITING_DOTS="true"
+
+# CTRL + SPACE will accept current suggestion and execute it
+bindkey '^ ' autosuggest-execute
+
+# COMPLETION_WAITING_DOTS="true"
 
 # DISABLE_UNTRACKED_FILES_DIRTY="true"
+
+# Plugins
+plugins=(git httpie npm yarn brew node tmux zsh-autosuggestions zsh-syntax-highlighting)
 
 # Plugins
 plugins=(git, cask, httpie, npm, yarn, tmux)
