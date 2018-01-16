@@ -1,0 +1,24 @@
+{
+  "url": "git@github.com:jukben/dotfiles.git",
+  "readme": "README.md",
+  "entities": [
+    {
+      "i": "~/.config/fish",
+      "o": ".config/fish",
+      "options": {
+        "noSymlinks": true,
+        "exclude": ["fishd.dca90476d2cf"]
+      }
+    },
+    {
+      "i": "~/Library/Application Support/Code/User/settings.json",
+      "o": "vscode/settings.json"
+    },
+    "~/.tmux.conf",
+    "~/.gitignore",
+    "~/.vimrc",
+    ["node-global-packages.txt", "npm list -g --depth=0 | awk 'match($0, /\\w*@([0-9]+\\.?)*/) {print $2}'"],
+    ["brew-cask.txt", "brew cask list"],
+    ["vscode-extensions.txt", "code --list-extensions"]
+  ]
+}

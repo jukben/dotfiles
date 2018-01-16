@@ -1,0 +1,15 @@
+EditorConfig.EditorConfig
+TeddyDD.fish
+amatiasq.sort-imports
+dbaeumer.vscode-eslint
+eamodio.gitlens
+esbenp.prettier-vscode
+joshpeng.sublime-babel-vscode
+joshpeng.theme-onedark-sublime
+jpoissonnier.vscode-styled-components
+junv.recent-files
+ms-vscode.cpptools
+msjsdiag.debugger-for-chrome
+streetsidesoftware.code-spell-checker
+vscodevim.vim
+wix.vscode-import-cost
