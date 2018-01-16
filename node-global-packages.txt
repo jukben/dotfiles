@@ -3,6 +3,7 @@ alfred-emoji@0.0.5
 all-contributors-cli@4.10.0
 cloc@2.3.2
 commitizen@2.9.6
+cowsay@1.2.1
 create-react-app@1.4.3
 create-react-native-app@1.0.0
 cz-conventional-changelog@2.1.0
