@@ -9,6 +9,7 @@ create-react-native-app@1.0.0
 cz-conventional-changelog@2.1.0
 detox-cli@1.1.0-alpha.0449f580
 fkill-cli@3.7.0
+gbck@0.0.1
 gitmoji-cli@1.8.7
 http-server@0.10.0
 lerna@2.5.1
