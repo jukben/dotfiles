@@ -14,13 +14,13 @@
       "i": "~/Library/Application Support/Code/User/settings.json",
       "o": "vscode/settings.json"
     },
+    ["vscode/extensions.txt", "code --list-extensions"],
     "~/.tmux.conf",
     "~/.gitignore",
     "~/.gitconfig",
     "~/.vimrc",
     ["node-global-packages.txt", "npm list -g --depth=0 | awk 'match($0, /\\w*@([0-9]+\\.?)*/) {print $2}'"],
-    ["brew-cask.txt", "brew cask list"],
-    ["vscode-extensions.txt", "code --list-extensions"]
+    ["brew-cask.txt", "brew cask list"]
   ]
 }
 
