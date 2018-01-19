@@ -14,7 +14,7 @@
       "i": "~/Library/Application Support/Code/User/settings.json",
       "o": "vscode/settings.json"
     },
-    ["vscode/extensions.txt", "code --list-extensions"],
+    ["vscode/extensions.txt", "code --show-versions --list-extensions"],
     "~/.tmux.conf",
     "~/.gitignore",
     "~/.gitconfig",
