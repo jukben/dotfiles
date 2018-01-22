@@ -17,6 +17,9 @@ title Terminal
 # Set path for Coreutils
 set -gx PATH /usr/local/opt/coreutils/libexec/gnubin /usr/local/opt/coreutils/libexec/gnuman $PATH
 
+# https://github.com/pfalcon/esp-open-sdk
+set -gx PATH /usr/local/opt/gnu-sed/bin $PATH
+
 # Set enviroment variables for Android development
 set -xU ANDROID_HOME $HOME/Library/Android/sdk
 set -xU ANDROID_SDK_ROOT $ANDROID_HOME
