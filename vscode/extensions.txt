@@ -1,4 +1,4 @@
-EditorConfig.EditorConfig@0.11.1
+EditorConfig.EditorConfig@0.12.0
 TeddyDD.fish@0.0.4
 amatiasq.sort-imports@5.0.0
 dbaeumer.vscode-eslint@1.4.4
@@ -11,5 +11,5 @@ junv.recent-files@1.1.9
 ms-vscode.cpptools@0.14.6
 msjsdiag.debugger-for-chrome@4.0.0
 streetsidesoftware.code-spell-checker@1.6.2
-vscodevim.vim@0.10.11
+vscodevim.vim@0.10.12
 wix.vscode-import-cost@2.6.2
