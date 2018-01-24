@@ -11,5 +11,5 @@ junv.recent-files@1.1.9
 ms-vscode.cpptools@0.14.6
 msjsdiag.debugger-for-chrome@4.0.0
 streetsidesoftware.code-spell-checker@1.6.2
-vscodevim.vim@0.10.12
+vscodevim.vim@0.10.13
 wix.vscode-import-cost@2.6.2
