@@ -30,6 +30,16 @@ set -xU GPG_TTY (tty)
 
 # Show issues assigned to me
 alias myghi "ghi list --mine"
+alias clr "clear"
+
+alias gpp "git push"
+alias gp "git pull"
+
+# Start Tmux
+if status is-interactive
+and not set -q TMUX
+  exec tmux new-session -A -s main
+end
 
 # The Fuck?
 thefuck --alias | source
