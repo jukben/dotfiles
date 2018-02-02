@@ -1,6 +1,7 @@
 EditorConfig.EditorConfig@0.12.0
 TeddyDD.fish@0.0.4
 amatiasq.sort-imports@5.0.0
+dbaeumer.vscode-eslint@1.4.5
 eamodio.gitlens@7.5.10
 esbenp.prettier-vscode@1.1.2
 joshpeng.sublime-babel-vscode@0.2.9
