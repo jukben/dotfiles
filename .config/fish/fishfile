@@ -1,9 +1,11 @@
 edc/bass
 jukben/carp
+fisherman/done
 fisherman/fishkit
 fisherman/get
 fisherman/getopts
 fisherman/git_util
+fisherman/humanize_duration
 fisherman/menu
 jukben/stfu
 oh-my-fish/plugin-title
