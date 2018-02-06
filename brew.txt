@@ -11,6 +11,7 @@ gawk
 gdbm
 gettext
 ghi
+git-extras
 gmp
 gnu-sed
 gnupg
