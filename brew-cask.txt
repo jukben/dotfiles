@@ -10,6 +10,7 @@ bettertouchtool
 calibre
 cyberduck
 discord
+docker
 dropbox
 fritzing
 google-chrome
@@ -18,6 +19,7 @@ istat-menus5
 iterm2
 java8
 macdown
+openoffice
 postman
 principle
 skype
