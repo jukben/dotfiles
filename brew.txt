@@ -58,6 +58,7 @@ rbenv
 readline
 ruby
 ruby-build
+screenfetch
 sqlite
 stormssh
 the_silver_searcher
