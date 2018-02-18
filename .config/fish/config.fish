@@ -31,9 +31,10 @@ set -xU GPG_TTY (tty)
 # Show issues assigned to me
 alias myghi "ghi list --mine"
 alias clr "clear"
-
 alias gpp "git push"
 alias gp "git pull"
+alias nodesktop "defaults write com.apple.finder CreateDesktop false; killall Finder"
+alias desktop "defaults write com.apple.finder CreateDesktop true; killall Finder"
 
 # Start Tmux
 if status is-interactive

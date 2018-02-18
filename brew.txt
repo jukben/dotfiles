@@ -36,6 +36,7 @@ libusb
 libyaml
 lynx
 mas
+mercurial
 moreutils
 mpfr
 nettle
@@ -52,6 +53,7 @@ pinentry
 pinentry-mac
 pkg-config
 pth
+python
 python3
 ranger
 rbenv
