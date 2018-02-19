@@ -36,5 +36,10 @@
   },
   "sort-imports.on-save": false,
   "prettier.printWidth": 120,
-  "editor.renderWhitespace": "all"
+  "editor.renderWhitespace": "all",
+  "alex.enable": true,
+  "gitlens.codeLens.scopes": [
+    "document",
+    "containers"
+  ]
 }

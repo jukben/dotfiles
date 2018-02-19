@@ -1,4 +1,5 @@
 @storybook/cli@3.2.17
+alfred-clap@1.1.2
 alfred-emoji@0.0.5
 all-contributors-cli@4.10.0
 cloc@2.3.2
@@ -9,6 +10,7 @@ create-react-native-app@1.0.0
 cz-conventional-changelog@2.1.0
 detox-cli@1.1.0-alpha.0449f580
 envinfo@4.0.0-beta.2
+eslint@4.18.0
 fkill-cli@3.7.0
 flow-bin@0.64.0
 gbck@0.0.1
@@ -20,7 +22,7 @@ moneda-cli@2.2.0
 n@2.1.8
 netlify@1.2.0
 nodemon@1.12.5
-np@2.19.0
+np@2.20.1
 npm@5.6.0
 parcel-bundler@1.0.3
 prettyjson@1.2.1
