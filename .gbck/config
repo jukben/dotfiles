@@ -19,6 +19,7 @@
     "~/.gitignore",
     "~/.gitconfig",
     "~/.vimrc",
+    "~/.czrc",
     "./setup.sh",
     ["node-global-packages.txt", "npm list -g --depth=0 | awk 'match($0, /\\w*@([0-9]+\\.?)*/) {print $2}'"],
     ["brew-cask.txt", "brew cask list"],
