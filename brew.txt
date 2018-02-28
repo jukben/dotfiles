@@ -52,6 +52,7 @@ pcre2
 pinentry
 pinentry-mac
 pkg-config
+podenv
 pth
 python
 python3

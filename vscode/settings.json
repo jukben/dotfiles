@@ -41,5 +41,6 @@
   "gitlens.codeLens.scopes": [
     "document",
     "containers"
-  ]
+  ],
+  "vim.overrideCopy": false
 }

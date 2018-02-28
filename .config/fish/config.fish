@@ -23,6 +23,8 @@ set -gx PATH /usr/local/opt/gnu-sed/bin $PATH
 # Set enviroment variables for Android development
 set -xU ANDROID_HOME $HOME/Library/Android/sdk
 set -xU ANDROID_SDK_ROOT $ANDROID_HOME
+set -xU ANDROID_SDK $ANDROID_HOME
+set -xU ANDROID_NDK $ANDROID_HOME/android-ndk-r10e
 set -gx PATH $ANDROID_HOME/emulator $ANDROID_HOME/tools/bin $ANDROID_HOME/tools $ANDROID_HOME/platform-tools $PATH
 
 # Set GPG commit signing
