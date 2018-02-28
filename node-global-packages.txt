@@ -3,7 +3,6 @@ alfred-clap@1.1.2
 alfred-emoji@0.1.0
 alfred-polyglot@1.0.0
 all-contributors-cli@4.10.0
-babel-core@6.26.0
 cloc@2.3.2
 commitizen@2.9.6
 cowsay@1.2.1
