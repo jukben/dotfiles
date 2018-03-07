@@ -35,12 +35,12 @@
     "suppressWelcomeNotice": true
   },
   "sort-imports.on-save": false,
-  "prettier.printWidth": 120,
   "editor.renderWhitespace": "all",
   "alex.enable": true,
   "gitlens.codeLens.scopes": [
     "document",
     "containers"
   ],
-  "vim.overrideCopy": false
+  "vim.overrideCopy": false,
+  "problems.decorations.enabled": false
 }

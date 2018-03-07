@@ -18,6 +18,7 @@ insomnia
 istat-menus5
 iterm2
 java8
+kap
 macdown
 openoffice
 postman
