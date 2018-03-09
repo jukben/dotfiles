@@ -36,6 +36,8 @@ syntax on
 map <C-n> :NERDTreeToggle<CR>
 " Mouse on
 set mouse=a
+" set Search Highlight by default on 
+set hls
 " Better window navigation
 nnoremap <C-j> <C-w>j
 nnoremap <C-k> <C-w>k

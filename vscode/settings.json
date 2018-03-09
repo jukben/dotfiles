@@ -42,5 +42,6 @@
     "containers"
   ],
   "vim.overrideCopy": false,
-  "problems.decorations.enabled": false
+  "problems.decorations.enabled": false,
+  "gitlens.keymap": "alternate"
 }

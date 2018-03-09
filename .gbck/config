@@ -23,7 +23,8 @@
     "./setup.sh",
     ["node-global-packages.txt", "npm list -g --depth=0 | awk 'match($0, /\\w*@([0-9]+\\.?)*/) {print $2}'"],
     ["brew-cask.txt", "brew cask list"],
-    ["brew.txt", "brew list"]
+    ["brew.txt", "brew list"],
+    ["mas.txt", "mas list"]
   ]
 }
 

@@ -13,6 +13,7 @@ discord
 docker
 dropbox
 fritzing
+genymotion
 google-chrome
 insomnia
 istat-menus5

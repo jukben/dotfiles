@@ -4,6 +4,7 @@ alfred-emoji@0.1.0
 alfred-polyglot@1.0.0
 alfred-show-network-info@0.1.18
 all-contributors-cli@4.10.0
+bs-platform@2.2.2
 cloc@2.3.2
 commitizen@2.9.6
 cowsay@1.2.1
@@ -30,6 +31,7 @@ parcel-bundler@1.0.3
 prettyjson@1.2.1
 react-native-cli@2.0.1
 react-native-git-upgrade@0.2.7
+reason-cli@3.0.4
 remove@0.1.5
 surge@0.19.0
 tldr@3.1.1

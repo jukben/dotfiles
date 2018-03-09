@@ -4,6 +4,7 @@ asciinema
 autoconf
 automake
 binutils
+carthage
 coreutils
 fish
 fzf
