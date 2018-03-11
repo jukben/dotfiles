@@ -57,6 +57,7 @@ podenv
 pth
 python
 python3
+python@2
 ranger
 rbenv
 readline
@@ -65,6 +66,7 @@ ruby-build
 screenfetch
 sqlite
 stormssh
+terminal-notifier
 the_silver_searcher
 thefuck
 tig
