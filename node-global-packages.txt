@@ -32,7 +32,6 @@ prettyjson@1.2.1
 react-native-cli@2.0.1
 react-native-git-upgrade@0.2.7
 reason-cli@3.0.4
-remove@0.1.5
 surge@0.19.0
 tldr@3.1.1
 tldrlegal@1.0.6
