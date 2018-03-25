@@ -6,7 +6,7 @@ eamodio.gitlens@8.1.1
 eg2.vscode-npm-script@0.3.3
 esbenp.prettier-vscode@1.2.2
 felixfbecker.php-intellisense@2.3.0
-flowtype.flow-for-vscode@0.7.3
+flowtype.flow-for-vscode@0.8.0
 freebroccolo.reasonml@1.0.30
 jpoissonnier.vscode-styled-components@0.0.16
 junv.recent-files@1.1.9

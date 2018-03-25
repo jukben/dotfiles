@@ -3,12 +3,12 @@ alfred-clap@1.1.2
 alfred-emoji@0.1.0
 alfred-polyglot@1.0.0
 alfred-show-network-info@0.1.18
-all-contributors-cli@4.10.0
+all-contributors-cli@4.11.1
 bs-platform@2.2.2
 cloc@2.3.2
 commitizen@2.9.6
 cowsay@1.2.1
-create-react-app@1.4.3
+create-react-app@1.5.2
 create-react-native-app@1.0.0
 cz-conventional-changelog@2.1.0
 detox-cli@1.1.0-alpha.0449f580
