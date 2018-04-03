@@ -25,6 +25,7 @@
     "suppressLineUncommittedWarning": false,
     "suppressNoRepositoryWarning": false,
     "suppressResultsExplorerNotice": true,
+    "suppressShowKeyBindingsNotice": true,
     "suppressUpdateNotice": false,
     "suppressWelcomeNotice": true
   },
@@ -37,12 +38,15 @@
   ],
   "vim.overrideCopy": false,
   "problems.decorations.enabled": false,
-  "gitlens.keymap": "alternate",
+  "gitlens.keymap": "none",
   "flow.enabled": true,
   "flow.runOnEdit": true,
   "flow.showStatus": true,
   "flow.runOnAllFiles": true,
   "flow.stopFlowOnExit": true,
   "flow.useNPMPackagedFlow": true,
-  "javascript.validate.enable": false,
+  "flow.useLSP": false,
+  "terminal.integrated.env.osx": {
+    "PRD": "lol"
+  }
 }

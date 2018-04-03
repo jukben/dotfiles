@@ -5,6 +5,7 @@ autoconf
 automake
 binutils
 carthage
+catimg
 coreutils
 fish
 fzf

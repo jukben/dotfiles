@@ -38,11 +38,5 @@ alias gp "git pull"
 alias nodesktop "defaults write com.apple.finder CreateDesktop false; killall Finder"
 alias desktop "defaults write com.apple.finder CreateDesktop true; killall Finder"
 
-# Start Tmux
-if status is-interactive
-and not set -q TMUX
-  exec tmux new-session -A -s main
-end
-
 # The Fuck?
 thefuck --alias | source
