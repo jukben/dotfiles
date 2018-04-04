@@ -20,6 +20,7 @@ istat-menus5
 iterm2
 java8
 kap
+kitematic
 macdown
 openoffice
 postman

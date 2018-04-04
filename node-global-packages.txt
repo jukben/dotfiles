@@ -19,6 +19,7 @@ flow-bin@0.64.0
 gbck@0.0.1
 gitmoji-cli@1.8.8
 http-server@0.10.0
+ipt@2.0.0
 lerna@2.5.1
 litetimer@1.0.2
 moneda-cli@2.2.0
