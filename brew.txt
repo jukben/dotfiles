@@ -1,5 +1,6 @@
 adns
 applesimutils
+aria2
 asciinema
 autoconf
 automake
@@ -13,6 +14,7 @@ gawk
 gdbm
 gettext
 ghi
+git
 git-extras
 gmp
 gnu-sed
@@ -43,7 +45,6 @@ moreutils
 mpfr
 nettle
 no-more-secrets
-node
 npth
 openssl
 openssl@1.1

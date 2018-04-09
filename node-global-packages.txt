@@ -1,7 +1,7 @@
 @storybook/cli@3.2.17
 alfred-clap@1.1.2
 alfred-emoji@0.1.0
-alfred-polyglot@1.0.0
+alfred-polyglot@1.1.5
 alfred-show-network-info@0.1.18
 all-contributors-cli@4.11.1
 bs-platform@2.2.2

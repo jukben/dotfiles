@@ -7,11 +7,13 @@ arduino
 battle-net
 beardedspice
 bettertouchtool
+brave
 calibre
 cyberduck
 discord
 docker
 dropbox
+firefox
 fritzing
 genymotion
 google-chrome
