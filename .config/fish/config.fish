@@ -31,6 +31,7 @@ set -gx PATH $ANDROID_HOME/emulator $ANDROID_HOME/tools/bin $ANDROID_HOME/tools 
 set -xU GPG_TTY (tty)
 
 # Show issues assigned to me
+alias myghig "ghi list -g --mine"
 alias myghi "ghi list --mine"
 alias clr "clear"
 alias gpp "git push"

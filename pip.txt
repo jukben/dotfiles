@@ -1,0 +1,7 @@
+Package    Version
+---------- -------
+mercurial  4.5.3  
+pip        9.0.3  
+setuptools 38.5.2 
+virtualenv 15.2.0 
+wheel      0.30.0 
