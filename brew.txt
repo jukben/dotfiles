@@ -8,6 +8,7 @@ binutils
 carthage
 catimg
 coreutils
+ffmpeg
 fish
 fzf
 gawk
@@ -26,6 +27,7 @@ grep
 help2man
 httpie
 icu4c
+lame
 libassuan
 libevent
 libffi
@@ -38,6 +40,7 @@ libtool
 libunistring
 libusb
 libyaml
+libzip
 lynx
 mas
 mercurial
@@ -72,11 +75,14 @@ terminal-notifier
 the_silver_searcher
 thefuck
 tig
+tldr
 tmux
 tree
 unrar
 wget
 wifi-password
+x264
+xvid
 xz
 yarn
 z

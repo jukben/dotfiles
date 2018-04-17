@@ -7,7 +7,7 @@
       "o": ".config/fish",
       "options": {
         "noSymlinks": true,
-        "exclude": ["fishd.dca90476d2cf"]
+        "exclude": ["fishd.dca90476d2cf", "secret.fish"]
       }
     },
     {

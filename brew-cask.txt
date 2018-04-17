@@ -16,7 +16,7 @@ dropbox
 firefox
 fritzing
 genymotion
-google-chrome
+google-chrome-canary
 insomnia
 istat-menus5
 iterm2
@@ -27,6 +27,8 @@ macdown
 openoffice
 postman
 principle
+robo-3t
+sequel-pro
 skype
 slack
 spotify
