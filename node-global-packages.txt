@@ -20,7 +20,7 @@ flow-bin@0.64.0
 gbck@0.0.1
 gitmoji-cli@1.8.8
 gulp@3.9.1
-http-server@0.10.0
+http-server@0.11.1
 ipt@2.0.0
 lerna@2.5.1
 moneda-cli@2.2.0
