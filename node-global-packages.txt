@@ -23,7 +23,6 @@ gulp@3.9.1
 http-server@0.10.0
 ipt@2.0.0
 lerna@2.5.1
-litetimer@1.0.2
 moneda-cli@2.2.0
 n@2.1.8
 netlify@1.2.0
@@ -41,4 +40,5 @@ tldrlegal@1.0.6
 trash-cli@1.4.0
 typescript@2.7.2
 vtop@0.5.7
+whybundled@1.2.0
 yarn@1.5.1

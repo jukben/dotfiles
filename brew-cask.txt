@@ -9,6 +9,7 @@ beardedspice
 bettertouchtool
 brave
 calibre
+charles
 cyberduck
 discord
 docker

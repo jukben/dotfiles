@@ -2,9 +2,9 @@ EditorConfig.EditorConfig@0.12.1
 TeddyDD.fish@0.0.4
 amatiasq.sort-imports@5.1.0
 dbaeumer.vscode-eslint@1.4.8
-eamodio.gitlens@8.2.1
+eamodio.gitlens@8.2.3
 eg2.vscode-npm-script@0.3.3
-esbenp.prettier-vscode@1.3.0
+esbenp.prettier-vscode@1.3.1
 felixfbecker.php-intellisense@2.3.1
 flowtype.flow-for-vscode@0.7.3
 freebroccolo.reasonml@1.0.34
@@ -17,7 +17,7 @@ msjsdiag.debugger-for-chrome@4.3.0
 patrys.vscode-code-outline@0.1.0
 pnp.polacode@0.2.2
 shinnn.alex@0.1.1
-streetsidesoftware.code-spell-checker@1.6.7
+streetsidesoftware.code-spell-checker@1.6.8
 vscodevim.vim@0.11.4
 wix.vscode-import-cost@2.6.2
 zhuangtongfa.Material-theme@2.13.4
