@@ -2,6 +2,6 @@ Package    Version
 ---------- -------
 mercurial  4.5.3  
 pip        10.0.1 
-setuptools 38.5.2 
+setuptools 39.1.0 
 virtualenv 15.2.0 
-wheel      0.30.0 
+wheel      0.31.0 

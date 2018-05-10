@@ -1,7 +1,7 @@
-@storybook/cli@3.2.17
+@storybook/cli@3.4.3
 adbs@2.0.0
 alfred-clap@1.1.2
-alfred-emoji@0.1.0
+alfred-emoji@0.1.1
 alfred-polyglot@1.1.5
 alfred-show-network-info@0.1.18
 all-contributors-cli@4.11.1
@@ -18,7 +18,9 @@ eslint@4.18.0
 fkill-cli@3.7.0
 flow-bin@0.64.0
 gbck@0.0.1
+generator-web-extension@0.0.5
 gitmoji-cli@1.8.8
+globby-cli@1.0.1
 gulp@3.9.1
 http-server@0.11.1
 ipt@2.0.0
@@ -28,8 +30,8 @@ n@2.1.8
 netlify@1.2.0
 nodemon@1.12.5
 np@2.20.1
-npm@5.8.0
-parcel-bundler@1.0.3
+npm@6.0.0
+parcel-bundler@1.7.1
 prettyjson@1.2.1
 react-devtools@3.2.1
 react-native-cli@2.0.1
@@ -42,3 +44,4 @@ typescript@2.7.2
 vtop@0.5.7
 whybundled@1.2.0
 yarn@1.5.1
+yo@2.0.2

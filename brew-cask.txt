@@ -17,6 +17,7 @@ dropbox
 firefox
 fritzing
 genymotion
+gitkraken
 google-chrome-canary
 insomnia
 istat-menus5
@@ -25,6 +26,7 @@ java8
 kap
 kitematic
 macdown
+mollyguard
 openoffice
 postman
 principle
