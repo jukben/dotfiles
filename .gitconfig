@@ -1,7 +1,7 @@
 [user]
         name = Jakub Benes
-      	email = jukben@gmail.com
-	signingkey = ED2A20DE6FE070C9887562FBFC3A6B6E691B1851
+        email = jukben@gmail.com
+        signingkey = ED2A20DE6FE070C9887562FBFC3A6B6E691B1851
 [push]
         default = simple
 [core]
@@ -10,8 +10,8 @@
 [github]
         user = jukben
 [commit]
-	gpgsign = true
+        gpgsign = true
 [ghi]
-	token = !security find-internet-password -a jukben -s github.com -l 'ghi token' -w
+        token = !security find-internet-password -a jukben -s github.com -l 'ghi token' -w
 [merge]
-	conflictstyle = diff3
+        conflictstyle = diff3
