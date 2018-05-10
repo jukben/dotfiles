@@ -2,6 +2,7 @@
 adbs@2.0.0
 alfred-clap@1.1.2
 alfred-emoji@0.1.1
+alfred-fkill@0.4.0
 alfred-polyglot@1.2.0
 alfred-show-network-info@0.1.18
 all-contributors-cli@4.11.1
