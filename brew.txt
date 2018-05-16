@@ -79,6 +79,7 @@ tldr
 tmux
 tree
 unrar
+watchman
 wget
 wifi-password
 x264

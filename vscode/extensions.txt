@@ -10,7 +10,7 @@ flowtype.flow-for-vscode@0.7.3
 freebroccolo.reasonml@1.0.34
 jpoissonnier.vscode-styled-components@0.0.18
 junv.recent-files@1.1.10
-kokororin.vscode-phpfmt@1.0.21
+kokororin.vscode-phpfmt@1.0.25
 mgmcdermott.vscode-language-babel@0.0.14
 mquandalle.graphql@0.1.2
 ms-vscode.cpptools@0.17.0

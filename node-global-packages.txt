@@ -1,4 +1,4 @@
-@storybook/cli@3.4.3
+@storybook/cli@3.4.4
 adbs@2.0.0
 alfred-clap@1.1.2
 alfred-emoji@0.1.1
@@ -14,7 +14,7 @@ create-react-app@1.5.2
 create-react-native-app@1.0.0
 cz-conventional-changelog@2.1.0
 detox-cli@7.2.0
-envinfo@5.4.0
+envinfo@5.6.0
 eslint@4.19.1
 fkill-cli@4.1.0
 flow-bin@0.72.0
@@ -37,7 +37,7 @@ prettyjson@1.2.1
 react-devtools@3.2.1
 react-native-cli@2.0.1
 react-native-git-upgrade@0.2.7
-reason-cli@3.0.4
+reason-cli@3.1.0-darwin
 surge@0.20.1
 tldrlegal@1.0.6
 trash-cli@1.4.0
