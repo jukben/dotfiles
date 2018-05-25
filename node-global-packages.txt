@@ -7,6 +7,7 @@ alfred-polyglot@1.2.0
 alfred-show-network-info@0.1.18
 all-contributors-cli@4.11.1
 bs-platform@3.0.0
+chromecast-device-emulator@1.1.2
 cloc@2.3.3
 commitizen@2.9.6
 cowsay@1.3.0

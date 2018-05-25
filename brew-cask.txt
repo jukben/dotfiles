@@ -1,4 +1,5 @@
 1password
+airserver
 alfred
 android-platform-tools
 android-studio
@@ -44,4 +45,5 @@ typora
 virtualbox
 visual-studio-code
 vlc
+wireshark
 zeplin

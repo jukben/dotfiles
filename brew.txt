@@ -69,6 +69,7 @@ readline
 ruby
 ruby-build
 screenfetch
+socat
 sqlite
 stormssh
 terminal-notifier
