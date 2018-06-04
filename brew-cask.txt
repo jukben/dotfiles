@@ -1,5 +1,4 @@
 1password
-airserver
 alfred
 android-platform-tools
 android-studio
@@ -15,6 +14,7 @@ cyberduck
 discord
 docker
 dropbox
+figma
 firefox
 franz
 fritzing

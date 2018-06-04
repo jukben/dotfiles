@@ -47,5 +47,6 @@
   "flow.stopFlowOnExit": true,
   "flow.useNPMPackagedFlow": true,
   "flow.useLSP": false,
+  "javascript.validate.enable": false,
   "gitlens.historyExplorer.enabled": true,
 }

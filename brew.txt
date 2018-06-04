@@ -27,6 +27,7 @@ grep
 help2man
 httpie
 icu4c
+jo
 lame
 libassuan
 libevent
