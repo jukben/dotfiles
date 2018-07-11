@@ -29,6 +29,7 @@ kap
 kitematic
 macdown
 mollyguard
+notion
 openoffice
 postman
 principle

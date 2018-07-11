@@ -1,6 +1,6 @@
 Package    Version
 ---------- -------
-mercurial  4.6.1  
+mercurial  4.6.2  
 pip        10.0.1 
 setuptools 39.2.0 
 virtualenv 15.2.0 

@@ -49,4 +49,5 @@
   "flow.useLSP": false,
   "javascript.validate.enable": false,
   "gitlens.historyExplorer.enabled": true,
+  "javascript.updateImportsOnFileMove.enabled": "always"
 }
