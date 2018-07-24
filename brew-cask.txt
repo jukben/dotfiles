@@ -20,6 +20,7 @@ franz
 fritzing
 genymotion
 gitkraken
+google-chrome
 google-chrome-canary
 insomnia
 istat-menus5

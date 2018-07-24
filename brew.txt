@@ -29,6 +29,7 @@ help2man
 httpie
 icu4c
 jo
+jq
 lame
 libassuan
 libevent
@@ -51,6 +52,7 @@ mpfr
 nettle
 no-more-secrets
 npth
+oniguruma
 openssl
 openssl@1.1
 p11-kit

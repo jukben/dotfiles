@@ -3,7 +3,7 @@ TeddyDD.fish@0.0.4
 aaron-bond.better-comments@1.2.6
 amatiasq.sort-imports@6.0.0
 dbaeumer.vscode-eslint@1.4.12
-eamodio.gitlens@8.5.1
+eamodio.gitlens@8.5.2
 eg2.vscode-npm-script@0.3.5
 esbenp.prettier-vscode@1.5.0
 felixfbecker.php-intellisense@2.3.3
@@ -14,12 +14,12 @@ junv.recent-files@1.1.10
 kokororin.vscode-phpfmt@1.0.30
 mgmcdermott.vscode-language-babel@0.0.20
 mquandalle.graphql@0.1.2
-ms-vscode.cpptools@0.17.6
+ms-vscode.cpptools@0.17.7
 msjsdiag.debugger-for-chrome@4.8.0
 patrys.vscode-code-outline@0.2.1
 pnp.polacode@0.2.2
 shinnn.alex@0.1.1
 streetsidesoftware.code-spell-checker@1.6.10
-vscodevim.vim@0.15.1
+vscodevim.vim@0.15.3
 wix.vscode-import-cost@2.7.2
 zhuangtongfa.Material-theme@2.15.1
