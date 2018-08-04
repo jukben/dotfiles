@@ -51,6 +51,7 @@ moreutils
 mpfr
 nettle
 no-more-secrets
+node
 npth
 oniguruma
 openssl

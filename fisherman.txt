@@ -2,6 +2,7 @@ carp
 bass
 done
 fishkit
+fzf
 get
 getopts
 gifify
