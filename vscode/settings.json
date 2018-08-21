@@ -49,5 +49,8 @@
   "flow.useLSP": false,
   "javascript.validate.enable": false,
   "gitlens.historyExplorer.enabled": true,
-  "javascript.updateImportsOnFileMove.enabled": "always"
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "cSpell.userWords": [
+    "precompiled"
+  ]
 }

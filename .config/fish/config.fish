@@ -27,12 +27,13 @@ set -xU ANDROID_SDK $ANDROID_HOME
 set -xU ANDROID_NDK $ANDROID_HOME/android-ndk-r10e
 set -gx PATH $ANDROID_HOME/emulator $ANDROID_HOME/tools/bin $ANDROID_HOME/tools $ANDROID_HOME/platform-tools $PATH
 
+# Make Vim default editor
 set -xU EDITOR vim
 
 # Set GPG commit signing
 set -xU GPG_TTY (tty)
 
-# Source "SECRET" envs
+# Source secret envs :)
 source ~/.config/fish/secret.fish
 
 # Aliases 
