@@ -27,6 +27,7 @@ gpg-agent
 grep
 help2man
 httpie
+ical-buddy
 icu4c
 jo
 jq

@@ -2,11 +2,11 @@ EditorConfig.EditorConfig@0.12.4
 TeddyDD.fish@0.0.4
 aaron-bond.better-comments@1.2.6
 amatiasq.sort-imports@6.0.0
-dbaeumer.vscode-eslint@1.4.14
-eamodio.gitlens@8.5.5
+dbaeumer.vscode-eslint@1.5.0
+eamodio.gitlens@8.5.6
 eg2.vscode-npm-script@0.3.5
 esbenp.prettier-vscode@1.6.1
-felixfbecker.php-intellisense@2.3.3
+felixfbecker.php-intellisense@2.3.4
 flowtype.flow-for-vscode@0.7.3
 freebroccolo.reasonml@1.0.38
 jpoissonnier.vscode-styled-components@0.0.21

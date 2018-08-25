@@ -7,6 +7,7 @@ alfred-polyglot@1.2.0
 alfred-show-network-info@0.1.18
 all-contributors-cli@4.11.1
 bs-platform@3.0.0
+carbon-now-cli@1.1.0
 chromecast-device-emulator@1.1.2
 cloc@2.3.3
 commitizen@2.9.6
@@ -36,14 +37,14 @@ n@2.1.10
 netlify@1.2.0
 nodemon@1.17.4
 np@3.0.4
-npm@6.2.0
+npm@6.4.0
 parcel-bundler@1.8.1
 prettyjson@1.2.1
 react-devtools@3.2.3
 react-native-cli@2.0.1
 react-native-create-library@3.1.2
 react-native-git-upgrade@0.2.7
-reason-cli@3.1.0-darwin
+reason-cli@3.3.3-macos-1
 surge@0.20.1
 terminalizer@0.2.5
 tldrlegal@1.0.6
