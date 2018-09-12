@@ -21,7 +21,6 @@ fritzing
 genymotion
 gitkraken
 google-chrome
-google-chrome-canary
 inkscape
 insomnia
 istat-menus5

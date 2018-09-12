@@ -37,7 +37,7 @@ n@2.1.10
 netlify@1.2.0
 nodemon@1.17.4
 np@3.0.4
-npm@6.4.0
+npm@6.4.1
 parcel-bundler@1.8.1
 prettyjson@1.2.1
 react-devtools@3.2.3
