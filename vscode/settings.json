@@ -30,7 +30,6 @@
     "suppressUpdateNotice": false,
     "suppressWelcomeNotice": true
   },
-  "sort-imports.on-save": false,
   "editor.renderWhitespace": "all",
   "alex.enable": true,
   "gitlens.codeLens.scopes": [
@@ -52,5 +51,6 @@
   "javascript.updateImportsOnFileMove.enabled": "always",
   "cSpell.userWords": [
     "precompiled"
-  ]
+  ],
+  "sort-imports.on-save": false
 }
