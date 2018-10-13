@@ -32,10 +32,7 @@
   },
   "editor.renderWhitespace": "all",
   "alex.enable": true,
-  "gitlens.codeLens.scopes": [
-    "document",
-    "containers"
-  ],
+  "gitlens.codeLens.scopes": ["document", "containers"],
   "vim.overrideCopy": false,
   "problems.decorations.enabled": false,
   "gitlens.keymap": "none",
@@ -49,8 +46,11 @@
   "javascript.validate.enable": false,
   "gitlens.historyExplorer.enabled": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "cSpell.userWords": [
-    "precompiled"
-  ],
-  "sort-imports.on-save": false
+  "cSpell.userWords": ["precompiled"],
+  "sort-imports.on-save": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "plaintext": "jade"
+  },
+  "cSpell.language": "en"
 }

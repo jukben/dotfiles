@@ -29,6 +29,7 @@ gpg-agent
 grep
 help2man
 heroku
+heroku-node
 httpie
 ical-buddy
 icu4c
@@ -74,7 +75,6 @@ pinentry
 pinentry-mac
 pkg-config
 podenv
-pow
 pth
 python
 python3

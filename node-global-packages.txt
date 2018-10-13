@@ -25,7 +25,7 @@ firebase-tools@4.2.1
 fkill-cli@4.1.0
 flow-bin@0.72.0
 flow-typed@2.4.0
-gbck@0.0.1
+gbck@1.0.0
 generator-web-extension@0.0.5
 gitmoji-cli@1.8.9
 globby-cli@1.0.1
@@ -50,7 +50,7 @@ surge@0.20.1
 terminalizer@0.2.5
 tldrlegal@1.0.6
 trash-cli@1.4.0
-typescript@2.8.3
+typescript@3.1.1
 vtop@0.5.7
 whybundled@1.2.1
 yo@2.0.5
