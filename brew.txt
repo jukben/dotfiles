@@ -82,7 +82,6 @@ python@2
 ranger
 rbenv
 readline
-redis
 ruby
 ruby-build
 screenfetch

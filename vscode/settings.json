@@ -52,5 +52,6 @@
     "javascript": "javascriptreact",
     "plaintext": "jade"
   },
-  "cSpell.language": "en"
+  "cSpell.language": "en",
+  "editor.suggest.localityBonus": true
 }

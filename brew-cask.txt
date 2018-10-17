@@ -42,6 +42,7 @@ spotify
 steam
 teamviewer
 transmission
+tunnelbear
 typora
 virtualbox
 visual-studio-code
