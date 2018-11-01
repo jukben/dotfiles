@@ -94,6 +94,7 @@ thefuck
 tig
 tldr
 tmux
+tor
 tree
 unrar
 watchman
