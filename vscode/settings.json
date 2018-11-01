@@ -54,7 +54,7 @@
   },
   "cSpell.language": "en",
   "editor.suggest.localityBonus": true,
-  "github.hosts": [
+  "githubPullRequests.hosts": [
     {
       "host": "https://github.com",
       "username": "oauth",
