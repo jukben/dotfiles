@@ -60,5 +60,6 @@
       "username": "oauth",
       "token": "system"
     }
-  ]
+  ],
+  "breadcrumbs.enabled": true
 }
