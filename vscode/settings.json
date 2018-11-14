@@ -10,7 +10,7 @@
   "workbench.startupEditor": "newUntitledFile",
   "workbench.editor.showTabs": false,
   "extensions.ignoreRecommendations": false,
-  "workbench.activityBar.visible": false,
+  "workbench.activityBar.visible": true,
   "workbench.editor.showIcons": false,
   "window.zoomLevel": 0,
   "prettier.eslintIntegration": true,
@@ -61,5 +61,7 @@
       "token": "system"
     }
   ],
-  "breadcrumbs.enabled": true
+  "breadcrumbs.enabled": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.sideBar.location": "left"
 }
