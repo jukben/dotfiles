@@ -18,13 +18,14 @@ mgmcdermott.vscode-language-babel@0.0.21
 mquandalle.graphql@0.1.2
 ms-vscode.cpptools@0.20.1
 ms-vsliveshare.vsliveshare@0.3.954
-msjsdiag.debugger-for-chrome@4.11.0
+msjsdiag.debugger-for-chrome@4.11.1
 patrys.vscode-code-outline@0.2.1
-PeterJausovec.vscode-docker@0.3.1
+PeterJausovec.vscode-docker@0.4.0
 pnp.polacode@0.2.2
 shinnn.alex@0.1.1
 streetsidesoftware.code-spell-checker@1.6.10
 vsciot-vscode.vscode-arduino@0.2.22
 vscodevim.vim@0.16.12
-wix.vscode-import-cost@2.9.0
+WakaTime.vscode-wakatime@1.2.3
+wix.vscode-import-cost@2.10.1
 zhuangtongfa.Material-theme@2.17.7

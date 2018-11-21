@@ -47,6 +47,7 @@ libgpg-error
 libidn2
 libksba
 libpng
+libpq
 libssh2
 libtasn1
 libtiff

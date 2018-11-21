@@ -63,5 +63,6 @@
   ],
   "breadcrumbs.enabled": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "workbench.sideBar.location": "left"
+  "workbench.sideBar.location": "left",
+  "workbench.editor.highlightModifiedTabs": true
 }
