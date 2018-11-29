@@ -43,6 +43,7 @@ steam
 teamviewer
 trailer
 transmission
+twizzy
 typora
 virtualbox
 visual-studio-code
