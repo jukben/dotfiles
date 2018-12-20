@@ -15,3 +15,5 @@
         token = !security find-internet-password -a jukben -s github.com -l 'ghi token' -w
 [merge]
         conflictstyle = diff3
+[rerere]
+	enabled = true

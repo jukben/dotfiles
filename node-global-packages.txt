@@ -2,7 +2,7 @@
 adbs@2.0.0
 alfred-clap@1.1.2
 alfred-emoji@0.1.1
-alfred-fkill@0.4.0
+alfred-fkill@0.4.1
 alfred-polyglot@1.2.1
 alfred-show-network-info@0.1.18
 all-contributors-cli@4.11.2
@@ -36,7 +36,8 @@ moneda-cli@2.2.0
 n@2.1.12
 netlify@1.2.0
 nodemon@1.18.7
-np@3.0.4
+now@12.1.12
+np@3.1.0
 npm@6.4.1
 parcel-bundler@1.10.3
 prettyjson@1.2.1

@@ -59,6 +59,7 @@ libusb
 libusb-compat
 libvorbis
 libvpx
+libxml2
 libyaml
 libzip
 little-cms2
