@@ -1,4 +1,5 @@
 1password
+airparrot
 alfred
 android-platform-tools
 android-studio
@@ -41,7 +42,6 @@ slack
 spotify
 steam
 teamviewer
-trailer
 transmission
 twizzy
 typora
