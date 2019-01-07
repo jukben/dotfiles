@@ -17,6 +17,8 @@ title Terminal
 # Set path for Coreutils
 set -gx PATH /usr/local/opt/coreutils/libexec/gnubin /usr/local/opt/coreutils/libexec/gnuman $PATH
 
+set -gx PATH ~/Productboard/pb-toolkit/docker/bin $PATH
+
 # https://github.com/pfalcon/esp-open-sdk
 set -gx PATH /usr/local/opt/gnu-sed/bin $PATH
 

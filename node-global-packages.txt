@@ -50,7 +50,6 @@ reason-cli@3.3.3-macos-1
 surge@0.20.1
 terminalizer@0.6.0
 tldrlegal@1.0.6
-trash-cli@1.4.0
 typescript@3.2.2
 vtop@0.5.7
 whybundled@1.4.2

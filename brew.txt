@@ -9,6 +9,7 @@ carthage
 catimg
 colordiff
 coreutils
+dcraw
 ffmpeg
 fish
 freetype
@@ -35,6 +36,7 @@ ical-buddy
 icu4c
 imagemagick
 irssi
+jasper
 jo
 jpeg
 jq
@@ -108,7 +110,9 @@ tig
 tldr
 tmux
 tor
+trash
 tree
+ufraw
 unrar
 watchman
 webp
@@ -120,3 +124,4 @@ xvid
 xz
 yarn
 z
+zbar

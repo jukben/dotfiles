@@ -2,8 +2,8 @@ TeddyDD.fish@0.0.4
 aaron-bond.better-comments@2.0.3
 amatiasq.sort-imports@6.0.1
 dbaeumer.vscode-eslint@1.7.2
-eamodio.gitlens@9.2.3
-EditorConfig.EditorConfig@0.12.5
+eamodio.gitlens@9.3.0
+EditorConfig.EditorConfig@0.12.6
 eg2.tslint@1.0.42
 eg2.vscode-npm-script@0.3.5
 esbenp.prettier-vscode@1.7.3
@@ -27,7 +27,7 @@ shinnn.alex@0.1.1
 shinnn.stylelint@0.47.0
 streetsidesoftware.code-spell-checker@1.6.10
 vsciot-vscode.vscode-arduino@0.2.24
-vscodevim.vim@0.17.0
+vscodevim.vim@1.0.1
 WakaTime.vscode-wakatime@1.2.5
 wix.vscode-import-cost@2.12.0
 zhuangtongfa.Material-theme@2.18.1
