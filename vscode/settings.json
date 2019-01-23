@@ -13,7 +13,6 @@
   "workbench.activityBar.visible": true,
   "workbench.editor.showIcons": false,
   "window.zoomLevel": 0,
-  "prettier.eslintIntegration": true,
   "files.insertFinalNewline": true,
   "workbench.colorTheme": "One Dark Pro",
   "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",

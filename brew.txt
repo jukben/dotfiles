@@ -11,6 +11,7 @@ colordiff
 coreutils
 dcraw
 ffmpeg
+findutils
 fish
 freetype
 fzf
@@ -50,8 +51,10 @@ libidn2
 libksba
 libnfc
 libogg
+libomp
 libpng
 libpq
+libscrypt
 libssh2
 libtasn1
 libtiff
@@ -100,6 +103,7 @@ screenfetch
 sdl2
 snappy
 socat
+sphinx-doc
 sqlite
 stormssh
 terminal-notifier

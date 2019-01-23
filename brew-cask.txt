@@ -33,7 +33,6 @@ mollyguard
 notion
 openoffice
 postman
-principle
 robo-3t
 runjs
 sequel-pro
