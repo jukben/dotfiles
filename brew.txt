@@ -32,6 +32,7 @@ grep
 help2man
 heroku
 heroku-node
+highlight
 httpie
 ical-buddy
 icu4c
@@ -68,9 +69,12 @@ libxml2
 libyaml
 libzip
 little-cms2
+lua
 lynx
 mas
 mercurial
+mfcuk
+mfoc
 moreutils
 mpfr
 nettle

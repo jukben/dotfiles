@@ -58,5 +58,6 @@
   "workbench.sideBar.location": "left",
   "workbench.editor.highlightModifiedTabs": true,
   "gitlens.views.fileHistory.enabled": true,
-  "gitlens.views.lineHistory.enabled": true
+  "gitlens.views.lineHistory.enabled": true,
+  "tslint.autoFixOnSave": true
 }

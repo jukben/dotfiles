@@ -33,6 +33,12 @@ mollyguard
 notion
 openoffice
 postman
+qlcolorcode
+qlmarkdown
+qlstephen
+qlvideo
+quicklook-json
+quicklookase
 robo-3t
 runjs
 sequel-pro
@@ -40,6 +46,7 @@ skype
 slack
 spotify
 steam
+suspicious-package
 teamviewer
 transmission
 twizzy
@@ -47,6 +54,7 @@ typora
 virtualbox
 visual-studio-code
 vlc
+webpquicklook
 wireshark
 xquartz
 zeplin
