@@ -10,4 +10,3 @@ jukben/carp
 jukben/gifify
 jukben/stfu
 jukben/z
-oh-my-fish/plugin-title
