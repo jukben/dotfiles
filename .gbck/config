@@ -27,7 +27,7 @@
     ["brew-cask.txt", "brew cask list"],
     ["brew.txt", "brew list"],
     ["mas.txt", "mas list"],
-    ["pip.txt", "pip list --format=columns"]
+    ["pip.txt", "pip list --format=columns 2> /dev/null"]
   ]
 }
 

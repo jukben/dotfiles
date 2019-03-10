@@ -33,7 +33,6 @@
   "alex.enable": true,
   "gitlens.codeLens.scopes": ["document", "containers"],
   "vim.overrideCopy": false,
-  "problems.decorations.enabled": false,
   "gitlens.keymap": "none",
   "flow.enabled": true,
   "flow.runOnEdit": true,
@@ -43,7 +42,6 @@
   "flow.useNPMPackagedFlow": true,
   "flow.useLSP": false,
   "javascript.validate.enable": false,
-  "gitlens.historyExplorer.enabled": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "cSpell.userWords": ["precompiled"],
   "sort-imports.on-save": false,
@@ -59,5 +57,11 @@
   "workbench.editor.highlightModifiedTabs": true,
   "gitlens.views.fileHistory.enabled": true,
   "gitlens.views.lineHistory.enabled": true,
-  "tslint.autoFixOnSave": true
+  "editor.codeActionsOnSave": {
+    "source.fixAll.tslint": true
+  },
+  "tslint.alwaysShowRuleFailuresAsWarnings": false,
+  "problems.decorations.enabled": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 }

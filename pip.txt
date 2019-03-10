@@ -1,8 +1,8 @@
 Package    Version
 ---------- -------
 bitstring  3.1.5  
-mercurial  4.8.2  
-pip        18.1   
-setuptools 40.6.3 
+mercurial  4.9    
+pip        19.0.3 
+setuptools 40.8.0 
 virtualenv 15.2.0 
-wheel      0.32.3 
+wheel      0.33.1 

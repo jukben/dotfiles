@@ -14,6 +14,7 @@ status --is-interactive; and source (rbenv init -|psub)
 # Set path for Coreutils
 set -gx PATH /usr/local/opt/coreutils/libexec/gnubin /usr/local/opt/coreutils/libexec/gnuman $PATH
 set -gx PATH /usr/local/opt/findutils/libexec/gnubin $PATH
+set -gx PATH /usr/local/opt/libiconv/bin $PATH
 
 # PB
 set -gx PATH ~/Productboard/pb-toolkit/docker/bin $PATH
