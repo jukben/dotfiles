@@ -48,7 +48,3 @@ alias dcu "docker-compose up -d"
 
 # The Fuck?
 thefuck --alias | source
-
-# https://github.com/Schniz/fnm
-eval (fnm env --fish)
-
