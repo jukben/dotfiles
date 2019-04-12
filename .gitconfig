@@ -17,3 +17,5 @@
         conflictstyle = diff3
 [rerere]
 	enabled = true
+[pull]
+	rebase = true

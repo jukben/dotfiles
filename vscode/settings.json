@@ -1,5 +1,5 @@
 {
-  "editor.snippetSuggestions": "top",
+  "editor.snippetSuggestions": "none",
   "editor.minimap.enabled": false,
   "editor.lineNumbers": "relative",
   "editor.cursorStyle": "line",
@@ -34,7 +34,7 @@
   "gitlens.codeLens.scopes": ["document", "containers"],
   "vim.overrideCopy": false,
   "gitlens.keymap": "none",
-  "flow.enabled": true,
+  "flow.enabled": false,
   "flow.runOnEdit": true,
   "flow.showStatus": true,
   "flow.runOnAllFiles": true,

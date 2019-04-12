@@ -15,6 +15,9 @@ status --is-interactive; and source (rbenv init -|psub)
 set -gx PATH /usr/local/opt/coreutils/libexec/gnubin /usr/local/opt/coreutils/libexec/gnuman $PATH
 set -gx PATH /usr/local/opt/findutils/libexec/gnubin $PATH
 set -gx PATH /usr/local/opt/libiconv/bin $PATH
+# Python
+set -gx PATH /usr/local/opt/python/libexec/bin $PATH
+set -gx PATH /Users/jukben/Library/Python/3.7/bin $PATH
 
 # PB
 set -gx PATH ~/Productboard/pb-toolkit/docker/bin $PATH

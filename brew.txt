@@ -5,6 +5,7 @@ aria2
 asciinema
 autoconf
 automake
+awscli
 binutils
 cairo
 carthage
@@ -103,7 +104,6 @@ mpfr
 ncurses
 nettle
 no-more-secrets
-node
 npth
 oniguruma
 opencore-amr
@@ -125,17 +125,16 @@ podenv
 postgresql
 pth
 python
-python3
 python@2
 ranger
 rbenv
 readline
 rtmpdump
 rubberband
-ruby
 ruby-build
 screenfetch
 sdl2
+shared-mime-info
 snappy
 socat
 speex
@@ -154,6 +153,7 @@ tor
 trash
 tree
 ufraw
+unbound
 unrar
 watchman
 webp
