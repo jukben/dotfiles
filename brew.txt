@@ -14,6 +14,7 @@ colordiff
 coreutils
 dcraw
 dive
+dpkg
 dry
 ffmpeg
 findutils
@@ -25,6 +26,7 @@ frei0r
 fribidi
 fzf
 gawk
+gd
 gdbm
 gettext
 ghi
@@ -34,12 +36,16 @@ git-extras
 glib
 gmp
 gnu-sed
+gnu-tar
 gnupg
 gnutls
+gpatch
 gperf
 gpg-agent
 graphite2
+graphviz
 grep
+gts
 harfbuzz
 help2man
 heroku
@@ -102,6 +108,7 @@ mkcert
 moreutils
 mpfr
 ncurses
+netpbm
 nettle
 no-more-secrets
 npth
@@ -117,6 +124,7 @@ p7zip
 parity
 pcre
 pcre2
+perl
 pinentry
 pinentry-mac
 pixman

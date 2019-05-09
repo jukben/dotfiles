@@ -22,6 +22,7 @@ fritzing
 genymotion
 gitkraken
 google-chrome
+imageoptim
 inkscape
 insomnia
 istat-menus5
