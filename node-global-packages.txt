@@ -20,9 +20,10 @@ electron-icon-maker@0.0.4
 envinfo@7.3.0
 eslint@5.16.0
 expo-cli@2.17.1
-firebase-tools@6.9.1
+firebase-tools@6.9.2
 fkill-cli@5.2.0
 flow-typed@2.5.1
+gatsby-cli@2.5.14
 gbck@1.0.0
 generator-web-extension@0.0.5
 gitmoji-cli@1.9.2

@@ -78,5 +78,9 @@
     },
     "[javascript]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveshare.featureSet": "insiders",
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
     }
 }
