@@ -107,10 +107,12 @@ mfoc
 mkcert
 moreutils
 mpfr
+n
 ncurses
 netpbm
 nettle
 no-more-secrets
+node
 npth
 oniguruma
 opencore-amr

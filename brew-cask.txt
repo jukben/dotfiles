@@ -29,6 +29,7 @@ istat-menus5
 iterm2
 java8
 kap
+keybase
 kitematic
 macdown
 mollyguard
