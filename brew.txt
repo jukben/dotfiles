@@ -112,7 +112,6 @@ ncurses
 netpbm
 nettle
 no-more-secrets
-node
 npth
 oniguruma
 opencore-amr

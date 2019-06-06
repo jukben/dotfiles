@@ -21,7 +21,7 @@ mikestead.dotenv@1.0.1
 mquandalle.graphql@0.1.2
 ms-vscode.cpptools@0.23.1
 ms-vscode.vscode-typescript-tslint-plugin@1.1.0
-ms-vsliveshare.vsliveshare@1.0.311
+ms-vsliveshare.vsliveshare@1.0.337
 msjsdiag.debugger-for-chrome@4.11.3
 patrys.vscode-code-outline@0.2.1
 PeterJausovec.vscode-docker@0.6.2
@@ -29,11 +29,11 @@ pnp.polacode@0.3.2
 shinnn.alex@0.1.1
 shinnn.stylelint@0.49.0
 silvenon.mdx@0.1.0
-streetsidesoftware.code-spell-checker@1.7.12
+streetsidesoftware.code-spell-checker@1.7.16
 VisualStudioExptTeam.vscodeintellicode@1.1.6
 vsciot-vscode.vscode-arduino@0.2.26
 vscodevim.vim@1.8.1
 WakaTime.vscode-wakatime@2.1.2
 wix.vscode-import-cost@2.12.0
 zhouronghui.propertylist@0.0.2
-zhuangtongfa.Material-theme@2.23.2
+zhuangtongfa.Material-theme@2.24.1

@@ -7,7 +7,7 @@
 408981434 com.apple.iMovieApp (10.1.11)
 990588172 io.maddin.Gestimer (1.2.5)
 918858936 it.bloop.airmail2 (3.6.58)
-1384080005 com.tapbots.Tweetbot3Mac (3.2.2)
+1384080005 com.tapbots.Tweetbot3Mac (3.3)
 585829637 com.todoist.mac.Todoist (7.1.3)
 1351639930 com.sindresorhus.Gifski (1.8.0)
 549083868 de.milchimgemuesefach.Display-Menu (2.2.3)
