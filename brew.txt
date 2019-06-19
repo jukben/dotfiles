@@ -113,6 +113,8 @@ netpbm
 nettle
 no-more-secrets
 npth
+nspr
+nss
 oniguruma
 opencore-amr
 openexr

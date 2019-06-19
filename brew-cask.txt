@@ -3,6 +3,7 @@ alfred
 android-platform-tools
 android-studio
 android-studio-preview
+anybar
 arduino
 battle-net
 beardedspice

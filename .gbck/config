@@ -23,11 +23,17 @@
     "~/.tigrc",
     "./setup.sh",
     "./jukben-touchbar.bttpreset",
-    ["node-global-packages.txt", "npm list -g --depth=0 2> /dev/null | awk 'match($0, /\\w*@([0-9]+\\.?)*/) {print $2}'"],
+    [
+      "node-global-packages.txt",
+      "npm list -g --depth=0 2> /dev/null | awk 'match($0, /\\w*@([0-9]+\\.?)*/) {print $2}'"
+    ],
+    [
+      "yarn-global-packages.txt",
+      "yarn global list | awk 'match($0, /([\\w-]*)@([0-9]+\\.?)*/) {print $2}' |  cut -c 2- | rev | cut -c 2- | rev"
+    ],
     ["brew-cask.txt", "brew cask list"],
     ["brew.txt", "brew list"],
     ["mas.txt", "mas list"],
     ["pip.txt", "pip list --format=columns 2> /dev/null"]
   ]
 }
-

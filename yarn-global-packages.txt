@@ -1,0 +1,6 @@
+bs-platform@5.0.4
+cloc@2.5.0
+gbck@1.0.0
+prettyjson@1.2.1
+serve@11.0.2
+surge@0.21.3
