@@ -12,6 +12,7 @@ brave-browser
 calibre
 captain
 charles
+coconutbattery
 cyberduck
 discord
 docker

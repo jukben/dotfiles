@@ -100,6 +100,7 @@ libzip
 little-cms2
 lua
 lynx
+lzo
 mas
 mercurial
 mfcuk
@@ -112,6 +113,7 @@ ncurses
 netpbm
 nettle
 no-more-secrets
+node
 npth
 nspr
 nss
