@@ -34,7 +34,6 @@
   "gitlens.codeLens.scopes": ["document", "containers"],
   "vim.overrideCopy": false,
   "gitlens.keymap": "none",
-  "flow.enabled": false,
   "flow.runOnEdit": true,
   "flow.showStatus": true,
   "flow.runOnAllFiles": true,
@@ -82,5 +81,8 @@
     "liveshare.featureSet": "insiders",
     "[typescriptreact]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    },
+    "codemetrics.basics.OverviewRulerModeEnabled": false,
+    "codemetrics.basics.CodeLensEnabled": false,
+    "flow.enabled": false
 }

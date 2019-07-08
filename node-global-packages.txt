@@ -4,4 +4,4 @@ alfred-fkill@0.4.1
 alfred-hl@1.0.0
 alfred-polyglot@1.3.0
 gbck@1.0.0
-npm@6.9.0
+npm@6.10.0
