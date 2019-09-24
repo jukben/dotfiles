@@ -10,7 +10,6 @@
   "workbench.startupEditor": "newUntitledFile",
   "workbench.editor.showTabs": false,
   "extensions.ignoreRecommendations": false,
-  "workbench.activityBar.visible": true,
   "workbench.editor.showIcons": false,
   "window.zoomLevel": 0,
   "files.insertFinalNewline": true,
@@ -42,7 +41,10 @@
   "flow.useLSP": false,
   "javascript.validate.enable": false,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "cSpell.userWords": ["precompiled"],
+  "cSpell.userWords": [
+    "precompiled",
+    "productboard"
+  ],
   "sort-imports.on-save": false,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
@@ -69,20 +71,93 @@
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "[scss]": {
-        
+  "[scss]": {},
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveshare.featureSet": "insiders",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "codemetrics.basics.OverviewRulerModeEnabled": false,
+  "flow.enabled": false,
+  "workbench.activityBar.visible": true,
+  "gitlens.menus": {
+    "editor": {
+      "blame": false,
+      "clipboard": true,
+      "compare": true,
+      "details": false,
+      "history": false,
+      "remote": false
     },
-    "[jsonc]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editorGroup": false,
+    "editorTab": {
+      "clipboard": true,
+      "compare": true,
+      "history": true,
+      "remote": true
     },
-    "[javascript]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "explorer": {
+      "clipboard": true,
+      "compare": true,
+      "history": true,
+      "remote": true
     },
-    "liveshare.featureSet": "insiders",
-    "[typescriptreact]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "scmGroup": {
+      "compare": true,
+      "openClose": true,
+      "stash": true,
+      "stashInline": true
     },
-    "codemetrics.basics.OverviewRulerModeEnabled": false,
-    "codemetrics.basics.CodeLensEnabled": false,
-    "flow.enabled": false
+    "scmItem": {
+      "clipboard": true,
+      "compare": true,
+      "history": true,
+      "remote": true,
+      "stash": true
+    }
+  },
+  "cSpell.enabledLanguageIds": [
+    "asciidoc",
+    "c",
+    "cpp",
+    "csharp",
+    "css",
+    "git-commit",
+    "go",
+    "handlebars",
+    "html",
+    "jade",
+    "java",
+    "javascript",
+    "javascriptreact",
+    "json",
+    "jsonc",
+    "latex",
+    "less",
+    "markdown",
+    "php",
+    "plaintext",
+    "pug",
+    "python",
+    "restructuredtext",
+    "rust",
+    "scala",
+    "scss",
+    "shellscript",
+    "text",
+    "typescript",
+    "typescriptreact",
+    "yaml",
+    "yml"
+  ],
+  "codemetrics.basics.CodeLensEnabled": false,
+  "editor.gotoLocation.multiple": "goto",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }

@@ -1,7 +1,7 @@
 cloc@2.5.0
-firebase-tools@7.0.1
-lerna@3.15.0
-np@5.0.3
+firebase-tools@7.3.2
+lerna@3.16.4
+np@5.1.0
 prettyjson@1.2.1
-serve@11.0.2
+serve@11.1.0
 surge@0.21.3

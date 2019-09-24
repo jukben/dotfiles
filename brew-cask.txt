@@ -34,6 +34,7 @@ kap
 keybase
 kitematic
 macdown
+minikube
 mollyguard
 notion
 openoffice
