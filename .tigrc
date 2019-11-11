@@ -1,5 +1,5 @@
-bind main R !HUSKY_SKIP_HOOKS=1 git rebase -i --autosquash %(commit)^
-bind diff R !HUSKY_SKIP_HOOKS=1 git rebase -i --autosquash %(commit)^
+bind main R !git rebase -i --autosquash %(commit)^
+bind diff R !git rebase -i --autosquash %(commit)^
 # Create fixup for the lates commit
 bind generic <C-F> !git commit --fixup %(head)
 # bind generic <C-S> !git rebase --autosquash

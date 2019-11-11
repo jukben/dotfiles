@@ -1,4 +1,5 @@
 1password
+alacritty
 alfred
 android-platform-tools
 android-studio
@@ -33,6 +34,7 @@ java8
 kap
 keybase
 kitematic
+logmein-hamachi
 macdown
 minikube
 mollyguard

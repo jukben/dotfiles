@@ -15,10 +15,10 @@ Markdown             3.0.1
 mock                 2.0.0    
 numpy                1.16.1   
 pbr                  5.1.2    
-pip                  19.1.1   
+pip                  19.3.1   
 protobuf             3.6.1    
 PyYAML               3.13     
-setuptools           41.0.1   
+setuptools           41.6.0   
 six                  1.12.0   
 tensorboard          1.12.2   
 tensorflow           1.13.0rc2
@@ -26,4 +26,4 @@ tensorflow-estimator 1.13.0rc0
 termcolor            1.1.0    
 tmuxp                1.5.1    
 Werkzeug             0.14.1   
-wheel                0.33.4   
+wheel                0.33.6   

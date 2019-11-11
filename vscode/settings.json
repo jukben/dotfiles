@@ -41,10 +41,7 @@
   "flow.useLSP": false,
   "javascript.validate.enable": false,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "cSpell.userWords": [
-    "precompiled",
-    "productboard"
-  ],
+  "cSpell.userWords": ["precompiled", "productboard"],
   "sort-imports.on-save": false,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
@@ -82,6 +79,7 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "editor.rulers": ["85"],
   "codemetrics.basics.OverviewRulerModeEnabled": false,
   "flow.enabled": false,
   "workbench.activityBar.visible": true,

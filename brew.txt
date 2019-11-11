@@ -95,6 +95,7 @@ libtool
 libunistring
 libusb
 libusb-compat
+libvidstab
 libvorbis
 libvpx
 libxml2
@@ -106,11 +107,13 @@ lynx
 lzo
 mas
 mercurial
+minikube
 mkcert
 moreutils
 mpfr
 n
 ncurses
+neofetch
 netpbm
 nettle
 no-more-secrets
@@ -144,6 +147,7 @@ rtmpdump
 rubberband
 ruby-build
 screenfetch
+screenresolution
 sdl2
 shared-mime-info
 snappy
