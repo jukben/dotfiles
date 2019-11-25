@@ -1,5 +1,4 @@
 {
-  "editor.snippetSuggestions": "none",
   "editor.minimap.enabled": false,
   "editor.lineNumbers": "relative",
   "editor.cursorStyle": "line",
@@ -61,6 +60,8 @@
   "tslint.alwaysShowRuleFailuresAsWarnings": false,
   "problems.decorations.enabled": false,
   "editor.suggestSelection": "first",
+  "editor.suggest.showSnippets": true,
+  "editor.snippetSuggestions": "bottom",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "files.associations": {
     "*.css": "css"
