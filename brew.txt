@@ -6,6 +6,7 @@ asciinema
 autoconf
 automake
 awscli
+axel
 binutils
 cairo
 carthage

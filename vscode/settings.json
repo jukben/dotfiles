@@ -40,7 +40,11 @@
   "flow.useLSP": false,
   "javascript.validate.enable": false,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "cSpell.userWords": ["precompiled", "productboard"],
+  "cSpell.userWords": [
+    "bruteforce",
+    "precompiled",
+    "productboard"
+  ],
   "sort-imports.on-save": false,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
@@ -50,7 +54,6 @@
   "editor.suggest.localityBonus": true,
   "breadcrumbs.enabled": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "workbench.sideBar.location": "left",
   "workbench.editor.highlightModifiedTabs": true,
   "gitlens.views.fileHistory.enabled": true,
   "gitlens.views.lineHistory.enabled": true,
@@ -158,5 +161,7 @@
   "editor.gotoLocation.multiple": "goto",
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.sideBar.location": "right"
 }

@@ -12,6 +12,7 @@ Keras-Applications   1.0.7
 Keras-Preprocessing  1.0.9    
 libtmux              0.8.1    
 Markdown             3.0.1    
+mercurial            5.2      
 mock                 2.0.0    
 numpy                1.16.1   
 pbr                  5.1.2    
