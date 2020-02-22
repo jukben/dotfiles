@@ -7,10 +7,13 @@ autoconf
 automake
 awscli
 axel
+bfg
 binutils
 cairo
 carthage
 catimg
+cmake
+cocoapods
 colordiff
 coreutils
 dcraw
@@ -31,6 +34,7 @@ gawk
 gd
 gdbm
 gettext
+gh
 ghi
 giflib
 git
@@ -72,6 +76,7 @@ libass
 libassuan
 libbluray
 libde265
+libelf
 libevent
 libffi
 libgcrypt
@@ -80,6 +85,7 @@ libheif
 libiconv
 libidn2
 libksba
+libmpc
 libnfc
 libogg
 libomp
@@ -89,6 +95,7 @@ libsamplerate
 libscrypt
 libsndfile
 libsoxr
+libssh
 libssh2
 libtasn1
 libtiff
@@ -118,6 +125,7 @@ neofetch
 netpbm
 nettle
 no-more-secrets
+node
 npth
 nspr
 nss
@@ -137,7 +145,6 @@ pinentry
 pinentry-mac
 pixman
 pkg-config
-podenv
 pth
 python
 python@2
@@ -159,6 +166,7 @@ sqlite
 stormssh
 terminal-notifier
 tesseract
+texinfo
 the_silver_searcher
 thefuck
 theora
@@ -171,6 +179,7 @@ tree
 ufraw
 unbound
 unrar
+vde
 watchman
 webp
 wget

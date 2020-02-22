@@ -19,7 +19,7 @@ pbr                  5.1.2
 pip                  19.3.1   
 protobuf             3.6.1    
 PyYAML               3.13     
-setuptools           41.6.0   
+setuptools           42.0.2   
 six                  1.12.0   
 tensorboard          1.12.2   
 tensorflow           1.13.0rc2

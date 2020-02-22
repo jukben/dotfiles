@@ -12,8 +12,8 @@
   "workbench.editor.showIcons": false,
   "window.zoomLevel": 0,
   "files.insertFinalNewline": true,
-  "workbench.colorTheme": "One Dark Pro",
-  "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+  "workbench.colorTheme": "Atom One Light",
+  "editor.fontFamily": "JetBrains Mono",
   "vim.disableExtension": false,
   "gitlens.advanced.messages": {
     "suppressCommitHasNoPreviousCommitWarning": false,
@@ -32,20 +32,17 @@
   "gitlens.codeLens.scopes": ["document", "containers"],
   "vim.overrideCopy": false,
   "gitlens.keymap": "none",
-  "flow.runOnEdit": true,
-  "flow.showStatus": true,
-  "flow.runOnAllFiles": true,
-  "flow.stopFlowOnExit": true,
-  "flow.useNPMPackagedFlow": true,
-  "flow.useLSP": false,
   "javascript.validate.enable": false,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "cSpell.userWords": [
+    "Flic",
+    "Tricorder",
     "bruteforce",
+    "euctricorder",
     "precompiled",
-    "productboard"
+    "productboard",
+    "roadmap"
   ],
-  "sort-imports.on-save": false,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
     "plaintext": "jade"
@@ -58,7 +55,8 @@
   "gitlens.views.fileHistory.enabled": true,
   "gitlens.views.lineHistory.enabled": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll.tslint": true
+    "source.fixAll.tslint": true,
+    "source.fixAll": true
   },
   "tslint.alwaysShowRuleFailuresAsWarnings": false,
   "problems.decorations.enabled": false,
@@ -85,7 +83,6 @@
   },
   "editor.rulers": ["85"],
   "codemetrics.basics.OverviewRulerModeEnabled": false,
-  "flow.enabled": false,
   "workbench.activityBar.visible": true,
   "gitlens.menus": {
     "editor": {
@@ -163,5 +160,10 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "workbench.iconTheme": "vscode-icons",
-  "workbench.sideBar.location": "right"
+  "workbench.sideBar.location": "right",
+  "editor.fontSize": 13,
+  "terminal.integrated.fontFamily": "Operator Mono",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
