@@ -36,6 +36,7 @@
   "javascript.updateImportsOnFileMove.enabled": "always",
   "cSpell.userWords": [
     "Flic",
+    "Rollbar",
     "Tricorder",
     "bruteforce",
     "euctricorder",
