@@ -28,7 +28,6 @@
     "suppressWelcomeNotice": true
   },
   "editor.renderWhitespace": "all",
-  "alex.enable": true,
   "gitlens.codeLens.scopes": ["document", "containers"],
   "vim.overrideCopy": false,
   "gitlens.keymap": "none",
@@ -68,21 +67,8 @@
   "files.associations": {
     "*.css": "css"
   },
-  "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[scss]": {},
-  "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "liveshare.featureSet": "insiders",
-  "[typescriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "editor.rulers": ["85"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.rulers": [85],
   "codemetrics.basics.OverviewRulerModeEnabled": false,
   "workbench.activityBar.visible": true,
   "gitlens.menus": {
@@ -121,50 +107,10 @@
       "stash": true
     }
   },
-  "cSpell.enabledLanguageIds": [
-    "asciidoc",
-    "c",
-    "cpp",
-    "csharp",
-    "css",
-    "git-commit",
-    "go",
-    "handlebars",
-    "html",
-    "jade",
-    "java",
-    "javascript",
-    "javascriptreact",
-    "json",
-    "jsonc",
-    "latex",
-    "less",
-    "markdown",
-    "php",
-    "plaintext",
-    "pug",
-    "python",
-    "restructuredtext",
-    "rust",
-    "scala",
-    "scss",
-    "shellscript",
-    "text",
-    "typescript",
-    "typescriptreact",
-    "yaml",
-    "yml"
-  ],
   "codemetrics.basics.CodeLensEnabled": false,
-  "editor.gotoLocation.multiple": "goto",
-  "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
+  "editor.gotoLocation.multipleDefinitions": "goto",
   "workbench.iconTheme": "vscode-icons",
   "workbench.sideBar.location": "right",
   "editor.fontSize": 13,
   "terminal.integrated.fontFamily": "Operator Mono",
-  "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
 }

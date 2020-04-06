@@ -1,5 +1,4 @@
 1password
-alacritty
 alfred
 android-platform-tools
 android-studio

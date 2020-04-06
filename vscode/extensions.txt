@@ -10,7 +10,7 @@ dkundel.vscode-npm-source@1.0.0
 eamodio.gitlens@10.2.1
 EditorConfig.EditorConfig@0.14.4
 eg2.vscode-npm-script@0.3.11
-esbenp.prettier-vscode@3.20.0
+esbenp.prettier-vscode@4.0.0
 felixfbecker.php-intellisense@2.3.14
 GitHub.vscode-pull-request-github@0.15.0
 GrapeCity.gc-excelviewer@2.1.34
