@@ -20,7 +20,7 @@ findutils
 fish
 fzf
 gawk
-github/gh/gh
+gh
 ghi
 git
 git-extras

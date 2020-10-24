@@ -16,6 +16,7 @@ coconutbattery
 cyberduck
 discord
 docker
+dozer
 dropbox
 figma
 firefox
@@ -28,7 +29,6 @@ imageoptim
 inkscape
 insomnia
 istat-menus5
-iterm2
 java8
 kap
 keybase
@@ -37,6 +37,7 @@ logmein-hamachi
 macdown
 minikube
 mollyguard
+monitorcontrol
 notion
 openoffice
 postman
