@@ -1,13 +1,2 @@
-cloc@2.5.0
-create-next-app@9.4.4
-expo-cli@3.11.3
-firebase-tools@7.3.2
-fkill-cli@6.0.1
-gbck@1.1.0
-jay-repl@0.2.2
-lerna@3.16.4
-now@16.7.1
-np@5.2.1
-prettyjson@1.2.1
-serve@11.3.0
-surge@0.21.3
+np@6.2.3
+nx@10.1.0

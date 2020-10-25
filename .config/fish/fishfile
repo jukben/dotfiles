@@ -1,13 +1,5 @@
 franciscolourenco/done
 jukben/carp
-fishpkg/fish-git-util
-fishpkg/fish-humanize-duration
-jorgebucaran/fish-getopts
-jethrokuan/fzf
-jukben/stfu
-jukben/gifify
-fishpkg/fish-menu
-edc/bass
-fishpkg/fish-get
-matchai/anybar-fish
 jukben/z
+jethrokuan/fzf
+~/Dev/fish-nx
