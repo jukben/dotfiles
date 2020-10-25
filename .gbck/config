@@ -1,12 +1,13 @@
 {
   "url": "git@github.com:jukben/dotfiles.git",
   "readme": "README.md",
+  "branch": "master",
   "entities": [
     {
       "i": "~/.config/fish",
       "o": ".config/fish",
       "options": {
-        "noSymlinks": true,
+        "symlinks": false,
         "include": ["config.fish", "fishfile"]
       }
     },

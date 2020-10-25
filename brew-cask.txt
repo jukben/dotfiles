@@ -8,6 +8,7 @@ arduino
 battle-net
 beardedspice
 bettertouchtool
+bluetility
 brave-browser
 calibre
 captain
