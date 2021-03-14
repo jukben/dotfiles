@@ -8,7 +8,7 @@
       "o": ".config/fish",
       "options": {
         "symlinks": false,
-        "include": ["config.fish", "fishfile"]
+        "include": ["config.fish", "fish_plugins"]
       }
     },
     {
