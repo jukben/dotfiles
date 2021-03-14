@@ -35,6 +35,6 @@
     ],
     ["brew-cask.txt", "brew list --cask"], 
     ["brew.txt", "brew leaves"],
-    ["mas.txt", "mas list"]
+    ["mas.txt", "mas list | sort"]
   ]
 }
