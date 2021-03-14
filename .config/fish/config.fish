@@ -51,4 +51,4 @@ alias dcu "docker-compose up -d"
 
 # The Fuck?
 thefuck --alias | source
-
+pyenv init - | source

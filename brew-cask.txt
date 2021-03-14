@@ -3,6 +3,7 @@ alfred
 bartender
 bluetility
 captain
+cyberduck
 docker
 dozer
 dropbox
@@ -14,9 +15,11 @@ keybase
 loom
 miro
 monitorcontrol
-obsidian
 slack
 spotify
+steam
 suspicious-package
+tandem
 telegram
 visual-studio-code
+vlc

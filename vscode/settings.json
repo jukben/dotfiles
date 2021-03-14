@@ -132,5 +132,7 @@
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "terminal.integrated.shell.osx": "/usr/local/bin/fish"
+  "terminal.integrated.shell.osx": "/usr/local/bin/fish",
+  "debug.javascript.autoAttachFilter": "disabled",
+  "diffEditor.ignoreTrimWhitespace": false
 }
