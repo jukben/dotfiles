@@ -1,6 +1,8 @@
+adns
 aria2
 asciinema
 automake
+aws-iam-authenticator
 awscli
 axel
 bfg
@@ -12,6 +14,7 @@ cmake
 cocoapods
 colordiff
 coreutils
+derailed/k9s/k9s
 dpkg
 fd
 ffmpeg
@@ -30,6 +33,7 @@ gperf
 graphviz
 grep
 hashicorp/tap/terraform
+helm
 help2man
 heroku/brew/heroku-node
 highlight
@@ -62,10 +66,12 @@ node
 nss
 p7zip
 pinentry-mac
+po4a
 pyenv
 ranger
 rbenv
 rename
+rtmpdump
 screenfetch
 socat
 sphinx-doc

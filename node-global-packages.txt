@@ -1,5 +1,5 @@
 alfred-polyglot@1.4.0
 alfred-show-network-info@0.2.2
 gbck@1.1.0
-npm@7.6.0
+npm@7.15.1
 yarn@1.22.4

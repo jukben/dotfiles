@@ -1,6 +1,6 @@
 {
   "editor.minimap.enabled": false,
-  "editor.lineNumbers": "relative",
+  "editor.lineNumbers": "on",
   "editor.cursorStyle": "line",
   "zenMode.fullScreen": true,
   "zenMode.restore": true,
@@ -134,5 +134,9 @@
   },
   "terminal.integrated.shell.osx": "/usr/local/bin/fish",
   "debug.javascript.autoAttachFilter": "disabled",
-  "diffEditor.ignoreTrimWhitespace": false
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.tabSize": 8,
+  "editor.insertSpaces": false,
+  "editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
+  "editor.wordWrap": "off"
 }

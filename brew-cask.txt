@@ -1,5 +1,6 @@
 1password
 alfred
+aws-vault
 bartender
 bluetility
 captain
@@ -9,6 +10,7 @@ dozer
 dropbox
 farrago
 figma
+firefox
 google-chrome
 istat-menus
 keybase

@@ -51,4 +51,13 @@ alias dcu "docker-compose up -d"
 
 # The Fuck?
 thefuck --alias | source
+
+# PYENV
+set -Ux PYENV_ROOT $HOME/.pyenv
+set -U fish_user_paths $PYENV_ROOT/bin $fish_user_paths
+
+# Load pyenv automatically by appending
+# the following to ~/.config/fish/config.fish:
+
+status is-login; and pyenv init --path | source
 pyenv init - | source
