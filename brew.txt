@@ -41,9 +41,9 @@ htop
 httpie
 ical-buddy
 irssi
-jesseduffield/lazydocker/lazydocker
 jo
 jq
+kubectx
 libelf
 libiconv
 libmpc
@@ -61,6 +61,8 @@ moncho/dry/dry
 moreutils
 n
 neofetch
+nghttp2
+nmap
 no-more-secrets
 node
 nss
@@ -70,6 +72,7 @@ po4a
 pyenv
 ranger
 rbenv
+remotemobprogramming/brew/mob
 rename
 rtmpdump
 screenfetch

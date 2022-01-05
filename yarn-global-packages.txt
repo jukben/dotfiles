@@ -1,3 +1,5 @@
+@cloudflare/wrangler@1.19.3
 gatsby-cli@2.12.116
-np@6.2.3
+np@7.5.0
 nx@10.1.0
+update@0.7.4

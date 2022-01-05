@@ -3,8 +3,10 @@ alfred
 aws-vault
 bartender
 bluetility
+calibre
 captain
 cyberduck
+deckset
 docker
 dozer
 dropbox
@@ -12,7 +14,9 @@ farrago
 figma
 firefox
 google-chrome
+intellij-idea
 istat-menus
+kap
 keybase
 loom
 miro

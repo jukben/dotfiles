@@ -18,9 +18,10 @@ set -gx PATH /usr/local/opt/libiconv/bin $PATH
 # Python
 set -gx PATH /usr/local/opt/python/libexec/bin $PATH
 set -gx PATH /Users/jukben/Library/Python/3.7/bin $PATH
-
 # PB
 set -gx PATH ~/Productboard/pb-toolkit/docker/bin $PATH
+set -gx PATH ~/.rover/bin $PATH
+set -xU MOB_TIMER_ROOM fep
 
 # Set enviroment variables for Android development
 set -xU ANDROID_HOME $HOME/Library/Android/sdk
