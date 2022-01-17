@@ -5,6 +5,7 @@ automake
 aws-iam-authenticator
 awscli
 axel
+bat
 bfg
 binutils
 carthage
