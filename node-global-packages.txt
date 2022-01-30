@@ -2,5 +2,5 @@ alfred-polyglot@1.4.0
 alfred-show-network-info@0.2.2
 corepack@0.10.0
 gbck@1.1.0
-npm@8.1.0
+npm@8.3.0
 yarn@1.22.4
