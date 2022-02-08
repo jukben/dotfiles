@@ -4,15 +4,15 @@ set shell=/bin/bash
 " Plugins!
 call plug#begin('~/.vim/plugged')
 
+Plug 'arcticicestudio/nord-vim'
 Plug 'scrooloose/nerdtree'
 Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'airblade/vim-gitgutter'
 Plug 'jeffkreeftmeijer/vim-numbertoggle'
 Plug 'pangloss/vim-javascript'
-Plug 'flazz/vim-colorschemes'
 Plug 'tpope/vim-surround'
-Plug 'YorickPeterse/happy_hacking.vim'
 Plug '/usr/local/opt/fzf'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 
 call plug#end()
@@ -25,7 +25,7 @@ filetype off                  " required
 " Update time for gitgutter
 set updatetime=250
 " Colours
-colorscheme happy_hacking
+colorscheme nord 
 " Show numbers
 set number
 " Show statusline

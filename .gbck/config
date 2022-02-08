@@ -1,14 +1,26 @@
 {
   "url": "git@github.com:jukben/dotfiles.git",
   "readme": "README.md",
+  "branch": "main",
   "entities": [
     {
       "i": "~/.config/fish",
       "o": ".config/fish",
       "options": {
         "symlinks": false,
-        "include": ["config.fish", "fishfile"]
+        "include": [
+          "config.fish",
+          "fish_plugins"
+        ]
       }
+    },
+    {
+      "i": "~/.config/alacritty",
+      "o": ".config/alacritty"
+    },
+    {
+      "i": "~/.config/bat",
+      "o": ".config/bat"
     },
     {
       "i": "~/Library/Application Support/Code/User/settings.json",
@@ -18,15 +30,15 @@
       "i": "~/Library/Application Support/Code/User/keybindings.json",
       "o": "vscode/keybindings.json"
     },
-    ["vscode/extensions.txt", "code --show-versions --list-extensions 2> /dev/null"],
+    [
+      "vscode/extensions.txt",
+      "code --show-versions --list-extensions 2> /dev/null"
+    ],
     "~/.tmux.conf",
     "~/.gitignore",
     "~/.gitconfig",
     "~/.vimrc",
-    "~/.czrc",
     "~/.tigrc",
-    "./setup.sh",
-    "./jukben-touchbar.bttpreset",
     [
       "node-global-packages.txt",
       "npm list -g --depth=0 2> /dev/null | awk 'match($0, /\\w*@([0-9]+\\.?)*/) {print $2}'"
@@ -35,9 +47,17 @@
       "yarn-global-packages.txt",
       "yarn global list | awk 'match($0, /([\\w-]*)@([0-9]+\\.?)*/) {print $2}' |  cut -c 2- | rev | cut -c 2- | rev"
     ],
-    ["brew-cask.txt", "brew list --cask"], 
-    ["brew.txt", "brew leaves"],
-    ["mas.txt", "mas list"],
-    ["pip.txt", "pip list --format=columns 2> /dev/null"]
+    [
+      "brew-cask.txt",
+      "brew list --cask"
+    ],
+    [
+      "brew.txt",
+      "brew leaves"
+    ],
+    [
+      "mas.txt",
+      "mas list | sort"
+    ]
   ]
 }

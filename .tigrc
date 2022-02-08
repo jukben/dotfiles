@@ -4,3 +4,10 @@ bind diff R !git rebase -i --autosquash %(commit)^
 bind generic <C-F> !git commit --fixup %(head)
 # bind generic <C-S> !git rebase --autosquash
 
+# Use Git's default (reverse chronological) order, never automatically
+# use topo-order for the commit graph
+set commit-order = default
+
+# Limit number of commits loaded by default to 1000
+set main-options = -n 1000
+

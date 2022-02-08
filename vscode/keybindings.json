@@ -1,46 +1,46 @@
 // Place your key bindings in this file to overwrite the defaults
 [
-  {
-    "key": "cmd+1",
-    "command": "workbench.action.toggleSidebarVisibility"
-  },
-  {
-    "key": "cmd+b",
-    "command": "-workbench.action.toggleSidebarVisibility"
-  },
-  {
-    "key": "cmd+1",
-    "command": "-workbench.action.focusFirstEditorGroup"
-  },
-  {
-    "key": "cmd+2",
-    "command": "-workbench.action.focusSecondEditorGroup"
-  },
-  {
-    "key": "shift+cmd+f",
-    "command": "-workbench.view.search",
-    "when": "!searchViewletVisible"
-  },
-  {
-    "key": "cmd+e",
-    "command": "-actions.findWithSelection"
-  },
-  {
-    "key": "cmd+e",
-    "command": "workbench.action.quickOpen"
-  },
-  {
-    "key": "cmd+p",
-    "command": "-workbench.action.quickOpen"
-  },
-  {
-    "key": "cmd+e",
-    "command": "workbench.action.quickOpenNavigateNextInFilePicker",
-    "when": "inFilesPicker && inQuickOpen"
-  },
-  {
-    "key": "cmd+p",
-    "command": "-workbench.action.quickOpenNavigateNextInFilePicker",
-    "when": "inFilesPicker && inQuickOpen"
-  }
-]
+    {
+      "key": "cmd+1",
+      "command": "workbench.action.toggleSidebarVisibility"
+    },
+    {
+      "key": "cmd+b",
+      "command": "-workbench.action.toggleSidebarVisibility"
+    },
+    {
+      "key": "cmd+1",
+      "command": "-workbench.action.focusFirstEditorGroup"
+    },
+    {
+      "key": "cmd+2",
+      "command": "-workbench.action.focusSecondEditorGroup"
+    },
+    {
+      "key": "shift+cmd+f",
+      "command": "-workbench.view.search",
+      "when": "!searchViewletVisible"
+    },
+    {
+      "key": "cmd+e",
+      "command": "-actions.findWithSelection"
+    },
+    {
+      "key": "cmd+e",
+      "command": "workbench.action.quickOpen"
+    },
+    {
+      "key": "cmd+p",
+      "command": "-workbench.action.quickOpen"
+    },
+    {
+      "key": "cmd+e",
+      "command": "workbench.action.quickOpenNavigateNextInFilePicker",
+      "when": "inFilesPicker && inQuickOpen"
+    },
+    {
+      "key": "cmd+p",
+      "command": "-workbench.action.quickOpenNavigateNextInFilePicker",
+      "when": "inFilesPicker && inQuickOpen"
+    }
+  ]
