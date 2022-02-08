@@ -46,7 +46,7 @@ skyapps.fish-vscode@0.2.1
 streetsidesoftware.code-spell-checker@2.1.5
 stylelint.vscode-stylelint@1.2.1
 ue.alphabetical-sorter@2.0.1
-VisualStudioExptTeam.vscodeintellicode@1.2.16
+VisualStudioExptTeam.vscodeintellicode@1.2.17
 vsciot-vscode.vscode-arduino@0.4.10
 vscode-icons-team.vscode-icons@11.8.0
 vscodevim.vim@1.22.1
