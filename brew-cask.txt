@@ -12,6 +12,7 @@ dozer
 dropbox
 figma
 google-chrome
+graphiql
 intellij-idea
 istat-menus
 keybase
@@ -23,3 +24,4 @@ spotify
 suspicious-package
 telegram
 visual-studio-code
+vlc

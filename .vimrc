@@ -36,6 +36,8 @@ syntax on
 map <C-n> :NERDTreeToggle<CR>
 " Mouse on
 set mouse=a
+" Clipboard
+set clipboard=unnamed
 " set Search Highlight by default on 
 set hls
 " Better window navigation
@@ -43,5 +45,9 @@ nnoremap <C-j> <C-w>j
 nnoremap <C-k> <C-w>k
 nnoremap <C-h> <C-w>h
 nnoremap <C-l> <C-w>l
+" Map Ctrl Copy-paste
+inoremap <C-v> <ESC>"+pa
+vnoremap <C-c> "+y
+vnoremap <C-d> "+d
 " Use FZF together with NERDTree
 nnoremap <silent> <expr> <Leader><Leader> (expand('%') =~ 'NERD_tree' ? "\<c-w>\<c-w>" : '').":Files\<cr>"

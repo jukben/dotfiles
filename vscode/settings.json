@@ -147,5 +147,6 @@
   "security.workspace.trust.untrustedFiles": "open",
   "typescript.referencesCodeLens.enabled": true,
   "editor.unicodeHighlight.ambiguousCharacters": false,
-  "terminal.external.osxExec": "Alacritty.app"
+  "terminal.external.osxExec": "Alacritty.app",
+  "vscode-graphql.showExecCodelens": false
 }

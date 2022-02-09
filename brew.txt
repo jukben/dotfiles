@@ -8,6 +8,7 @@ fish
 fzf
 git
 gnupg
+hashicorp/tap/vault
 htop
 jq
 k9s
