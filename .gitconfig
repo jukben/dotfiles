@@ -1,22 +1,33 @@
 [user]
-        name = Jakub Benes
-        email = jukben@gmail.com
-        signingkey = ED2A20DE6FE070C9887562FBFC3A6B6E691B1851
+  name = Jakub Benes
+  email = jukben@gmail.com
+  signingkey = ED2A20DE6FE070C9887562FBFC3A6B6E691B1851
 [push]
-        default = simple
+  default = simple
 [core]
-        editor = /usr/bin/vim
-        excludesfile = /Users/jukben/.gitignore
+  editor = /usr/bin/vim
+  excludesfile = /Users/jukben/.gitignore
 	ignorecase = false
 [github]
-        user = jukben
+  user = jukben
 [commit]
-        gpgsign = true
+  gpgsign = true
 [ghi]
-        token = !security find-internet-password -a jukben -s github.com -l 'ghi token' -w
+  token = !security find-internet-password -a jukben -s github.com -l 'ghi token' -w
 [merge]
-        conflictstyle = diff3
+  conflictstyle = diff3
 [rerere]
-	enabled = true
+  enabled = true
 [pull]
-	rebase = true
+  rebase = true
+[init]
+  defaultBranch = main
+[includeIf "gitdir:~/Productboard/"]
+  path = ~/Productboard/.gitconfig
+[filter "lfs"]
+  clean = git-lfs clean -- %f
+  smudge = git-lfs smudge -- %f
+  process = git-lfs filter-process
+  required = true
+[url "ssh://git@github.com/"]
+	insteadOf = https://github.com/

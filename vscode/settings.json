@@ -27,7 +27,10 @@
     "suppressWelcomeNotice": true
   },
   "editor.renderWhitespace": "all",
-  "gitlens.codeLens.scopes": ["document", "containers"],
+  "gitlens.codeLens.scopes": [
+    "document",
+    "containers"
+  ],
   "vim.overrideCopy": false,
   "gitlens.keymap": "none",
   "javascript.validate.enable": false,
@@ -71,7 +74,7 @@
   },
   "[scss]": {},
   "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "vscode.json-language-features"
   },
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -80,7 +83,9 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "editor.rulers": ["85"],
+  "editor.rulers": [
+    "85"
+  ],
   "codemetrics.basics.OverviewRulerModeEnabled": false,
   "workbench.activityBar.visible": true,
   "gitlens.menus": {
@@ -133,7 +138,9 @@
   "terminal.integrated.profiles.osx": {
     "fish": {
       "path": "/opt/homebrew/bin/fish",
-      "args": ["-l"]
+      "args": [
+        "-l"
+      ]
     }
   },
   "terminal.integrated.defaultProfile.osx": "fish",
@@ -141,12 +148,29 @@
   "debug.javascript.autoAttachFilter": "disabled",
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.tabSize": 8,
-  "editor.insertSpaces": false,
   "editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
   "editor.wordWrap": "off",
   "security.workspace.trust.untrustedFiles": "open",
   "typescript.referencesCodeLens.enabled": true,
   "editor.unicodeHighlight.ambiguousCharacters": false,
   "terminal.external.osxExec": "Alacritty.app",
-  "vscode-graphql.showExecCodelens": false
+  "vscode-graphql.showExecCodelens": false,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "githubPullRequests.terminalLinksHandler": "github",
+  "window.zoomLevel": 0,
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "timeline.excludeSources": [],
+  "editor.inlineSuggest.enabled": true,
+  "npm.keybindingsChangedWarningShown": true,
+  "git.mergeEditor": true,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }

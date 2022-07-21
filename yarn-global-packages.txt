@@ -1,2 +1,6 @@
+create-vite@2.9.2
+http-server@14.1.0
+miniflare@2.4.0
 np@7.6.0
 nx@13.7.3
+wrangler@0.0.26
