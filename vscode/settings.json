@@ -162,15 +162,14 @@
     "**/.factorypath": true
   },
   "githubPullRequests.terminalLinksHandler": "github",
-  "window.zoomLevel": 0,
   "[markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "timeline.excludeSources": [],
   "editor.inlineSuggest.enabled": true,
   "npm.keybindingsChangedWarningShown": true,
   "git.mergeEditor": true,
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "githubPullRequests.pullBranch": "never"
 }

@@ -7,7 +7,7 @@
 [core]
   editor = /usr/bin/vim
   excludesfile = /Users/jukben/.gitignore
-	ignorecase = false
+  ignorecase = false
 [github]
   user = jukben
 [commit]
@@ -30,4 +30,4 @@
   process = git-lfs filter-process
   required = true
 [url "ssh://git@github.com/"]
-	insteadOf = https://github.com/
+  insteadOf = https://github.com/

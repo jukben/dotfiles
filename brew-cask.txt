@@ -4,6 +4,7 @@ alacritty
 alfred
 around
 aws-vault
+brave-browser
 calibre
 cleanshot
 cron

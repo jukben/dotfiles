@@ -11,6 +11,7 @@ fzf
 git
 git-lfs
 gnupg
+graphviz
 hashicorp/tap/vault
 helm
 htop
@@ -24,12 +25,14 @@ mkcert
 n
 node
 pinentry-mac
+postgresql@14
 productboard/tools/pbctl
 ranger
 rbenv
 remotemobprogramming/brew/mob
 stormssh
 tailscale
+teleport
 terminal-notifier
 the_silver_searcher
 thefuck
