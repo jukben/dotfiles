@@ -34,7 +34,6 @@
       "vscode/extensions.txt",
       "code --show-versions --list-extensions 2> /dev/null"
     ],
-    "~/.gnupg/gpg-agent.conf",
     "~/.tmux.conf",
     "~/.gitignore",
     "~/.gitconfig",

@@ -1,8 +1,8 @@
-" I'm Fish
-set shell=/bin/bash
+" " I'm Fish
+" set shell=/bin/bash
 
 " Plugins!
-call plug#begin('~/.vim/plugged')
+call plug#begin()
 
 Plug 'arcticicestudio/nord-vim'
 Plug 'scrooloose/nerdtree'
@@ -18,7 +18,6 @@ Plug 'junegunn/fzf.vim'
 call plug#end()
 
 " Setting
-
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
@@ -38,6 +37,8 @@ map <C-n> :NERDTreeToggle<CR>
 set mouse=a
 " Clipboard
 set clipboard=unnamed
+" Make backspace work as intended
+set backspace=indent,eol,start
 " set Search Highlight by default on 
 set hls
 " Better window navigation
